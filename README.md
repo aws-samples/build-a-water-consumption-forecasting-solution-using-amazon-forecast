@@ -1,11 +1,5 @@
-## My Project
+## Build a Water Consumption Forecasting solution using Amazon Forecast
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
